@@ -152,6 +152,18 @@
     "car_order":{
       "name": "cloud-upload-regular",
       "color": "green"
+    },
+    "car_production_start":{
+      "name": "product-demo-bold",
+      "color": "orange"
+    },
+    "car_production_end":{
+      "name": "product-demo-bold",
+      "color": "green"
+    },
+    "car_production_delay":{
+      "name": "product-demo-bold",
+      "color": "red"
     }
   }
   
