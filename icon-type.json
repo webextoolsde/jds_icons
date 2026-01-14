@@ -158,12 +158,17 @@
       "color": "orange"
     },
     "car_production_end":{
+
       "name": "product-demo-bold",
       "color": "green"
     },
     "car_production_delay":{
       "name": "product-demo-bold",
       "color": "red"
+    },
+    "ai_conversation":{
+      "name": "prompts-ai-bold",
+      "color": "black"
     }
   }
   
