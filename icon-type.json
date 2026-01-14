@@ -21,6 +21,10 @@
       "name": "apple-filled",
       "color": "black"
     },
+    "whatsapp": {
+      "name": "active-interaction-bold",
+      "color": "green"
+    },
     "AuthSuccess": {
       "name": "assign-host-bold",
       "color": "green"
