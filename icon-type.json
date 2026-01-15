@@ -169,9 +169,14 @@
     "car_production_delay":{
       "name": "product-demo-bold",
       "color": "red"
+
     },
     "ai_conversation":{
       "name": "prompts-ai-bold",
+      "color": "black"
+    },
+    "appointment":{
+      "name": "advance-schedule-regular",
       "color": "black"
     }
   }
